@@ -6,6 +6,9 @@
 - 1080P-4M
 ## <食用>方法
 ![image](https://github.com/univspeed/FFmpegGuiTool/assets/23521638/6da2e6cd-0993-4df4-be7b-799ffeadd654)
+<img width="447" alt="562711156a651ad6d1fe085d4bb255b" src="https://github.com/univspeed/FFmpegGuiTool/assets/23521638/d66b9c02-6f16-4013-adce-901119c0f828">
+<img width="231" alt="83eacb1acc130988be2e29fa80ddc40" src="https://github.com/univspeed/FFmpegGuiTool/assets/23521638/99a6344e-25e9-465c-a4d9-8abcb0fdeb7d">
+
 - 1、填写输入文件
 - 2、填写输出路径
 - 3、选择编码格式
