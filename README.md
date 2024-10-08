@@ -1,5 +1,5 @@
 # FFmpegGuiTool.exe
-使用python开发的，基于FFmpeg.exe开发的可视化视频分片处理工具，目前支持四种转码格式
+使用python语言，基于FFmpeg.exe开发的可视化视频分片处理工具，目前支持四种转码格式
 - 720P-2M
 - 720P-4M
 - 1080P-2M
